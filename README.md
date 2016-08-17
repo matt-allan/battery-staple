@@ -19,6 +19,16 @@ $password = Yuloh\BatteryStaple\PasswordGenerator::generate();
 // returns something like "beefjapanesesealedunwrap"
 ```
 
+## Security
+
+The library is 8 lines of code, so there isn't much that can go wrong.  Here is what happens:
+
+- A word list of 10,000 words is loaded.
+- A random number is generated with `random_int` and the word on that line is used.
+- Repeat the above until you have 4 words.
+
+That being said, I am not a security expert.  I cannot guarantee that this library is cryptographically secure and you shouldn't use it for anything important.
+
 ## Contributing
 
 Contributions Welcome.  Some ideas:
