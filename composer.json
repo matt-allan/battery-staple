@@ -12,5 +12,8 @@
         "psr-4": {
             "Yuloh\\BatteryStaple\\": "src"
         }
+    },
+    "require": {
+        "paragonie/random_compat": "^2.0"
     }
 }
