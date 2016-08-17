@@ -1,0 +1,16 @@
+{
+    "name": "yuloh/battery-staple",
+    "description": "Generate XKCD inspired passwords",
+    "authors": [
+        {
+            "name": "Matt Allan",
+            "email": "matthew.james.allan@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yuloh\\BatteryStaple\\": "src"
+        }
+    }
+}
