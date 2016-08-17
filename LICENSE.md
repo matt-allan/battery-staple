@@ -1,4 +1,6 @@
-# The MIT License (MIT)
+# Code
+
+## The MIT License
 
 Copyright (c) 2016 Matthew Allan matthew.james.allan@gmail.com
 
@@ -19,3 +21,9 @@ Copyright (c) 2016 Matthew Allan matthew.james.allan@gmail.com
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE.
+
+# Word Lists
+
+The word lists are are sourced from https://github.com/first20hours/google-10000-english.  The license is below:
+
+Data files are derived from the Google Web Trillion Word Corpus, as described by Thorsten Brants and Alex Franz, and distributed by the Linguistic Data Consortium. Subsets of this corpus distributed by Peter Novig. Corpus editing and cleanup by Josh Kaufman.
