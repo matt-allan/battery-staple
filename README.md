@@ -33,6 +33,6 @@ That being said, I am not a security expert.  I cannot guarantee that this libra
 
 Contributions Welcome.  Some ideas:
 
-- Allow choosing a delimiter
+- ~~Allow choosing a delimiter~~
 - Set min/max word length, so you don't get words like 'the'
 - Case transformation options (using [neko](https://github.com/yuloh/neko)?)
